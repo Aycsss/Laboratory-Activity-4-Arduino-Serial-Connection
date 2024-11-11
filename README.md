@@ -1,7 +1,7 @@
 Group members: 
-Ayco
-Catanaoan
-Druelo
-Mañosca
-Saragena
-Zapata
+Ayco(leader),
+Catanaoan,
+Druelo,
+Mañosca,
+Saragena,
+Zapata,
